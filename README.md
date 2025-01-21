@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">An Ardent Machine Learning Technologist Hailing From Pakistan.</h3>
+<h3 align="center">An Ardent Machine Learning Technologist.</h3>
 
 <br/>
 
